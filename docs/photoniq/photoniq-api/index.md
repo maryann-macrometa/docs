@@ -33,7 +33,7 @@ title: PhotonIQ API Reference
   />
 
   <card
-    heading="Hyper Search API"
+    heading="HyperSearch API"
     description=""
     href="../../../docs/apiHss#"
   />
